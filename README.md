@@ -1,7 +1,7 @@
 # Olympic-Games-Analysis-SQL
-Analysis of Olympics Games data for extracting insights and business improvement.
+##Analysis of Olympics Games data for extracting insights and business improvement.
 
-Analysis of Olympic Games data using Postgres SQL and Analytical SQL Functions to extract insights, business improvement, and understanding the relations between features.
+###Analysis of Olympic Games data using Postgres SQL and Analytical SQL Functions to extract insights, business improvement, and understanding the relations between features.
 
 Examples of insights such as
 1. How many olympic games have been held?
