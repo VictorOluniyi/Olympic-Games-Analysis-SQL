@@ -3,7 +3,7 @@
 
 ### Analysis of Olympic Games data using Postgres SQL and Analytical SQL Functions to extract insights, business improvement, and understanding the relations between features.
 
-Examples of insights such as
+## Problem Statement
 1. How many olympic games have been held?
 2. List all the games held so far
 3. Mention the total number of nations who participated in each olympic games?
